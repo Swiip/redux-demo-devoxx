@@ -1,0 +1,17 @@
+{
+  "generator-fountain-vue": {
+    "version": "1.0.0",
+    "props": {
+      "framework": "vue",
+      "modules": "webpack",
+      "js": "babel",
+      "ci": "",
+      "css": "scss",
+      "resolved": "/Users/swiip/Workspace/FountainJS/fountain/generator-fountain-vue/generators/app/index.js",
+      "namespace": "fountain-vue:app",
+      "_": [],
+      "sample": "todoMVC",
+      "router": "router"
+    }
+  }
+}
